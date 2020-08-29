@@ -1,6 +1,6 @@
 {
   "name": "quizoid",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "engines": {
     "node": "14.4.0",
     "npm": "6.14.5"
