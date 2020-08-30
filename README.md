@@ -4,7 +4,7 @@ Quizoid is a simple quiz web-app that provides the user with a set of multiple c
 
 The app is created using React(TS)
 
-[Click here](https://amroalnajar.github.io/quizoid/) for a live preview of the app.
+[Click here](https://quizoid.herokuapp.com/) for a live preview of the app.
 
 ---
 
